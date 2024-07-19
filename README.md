@@ -8,3 +8,5 @@ Requires .env file with an OpenAI API.
 2. Docker containerization
 3. Web deployment
 4. Agent workflow customization via frontend
+5. Different schemas for layout
+6. GraphRAG integration
