@@ -5,8 +5,9 @@ Requires .env file with an OpenAI API.
 
 ## Goals
 1. Frontend UI
-2. Docker containerization
-3. Web deployment
-4. Agent workflow customization via frontend
-5. Different schemas for layout
-6. GraphRAG integration
+2. Corrector agent
+3. Docker containerization
+4. Web deployment
+5. Agent workflow customization via frontend
+6. Different schemas for layout
+7. GraphRAG integration
